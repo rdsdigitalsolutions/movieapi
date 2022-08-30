@@ -1,0 +1,4 @@
+./consumer/node_modules
+./movieApp/node_modules
+./consumer/.env
+./movieApp/.env
